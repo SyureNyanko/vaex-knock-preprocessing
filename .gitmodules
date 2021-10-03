@@ -1,0 +1,3 @@
+[submodule "awesomebook"]
+	path = awesomebook
+	url = https://github.com/ghmagazine/awesomebook.git
